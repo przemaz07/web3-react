@@ -2,6 +2,7 @@
   "private": true,
   "name": "web3-react",
   "description": "A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps",
+  "version": "6.2.1-beta"
   "keywords": [
     "react",
     "react-hooks",
